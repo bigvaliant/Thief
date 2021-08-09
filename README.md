@@ -1,6 +1,6 @@
-<p align="center">npm install -g cnpm --registry=https://registry.npm.taobao.org</p>
-<p align="center">cnpm install</p>
-<p align="center">npm run build:mac</p>
+<p align="left">npm install -g cnpm --registry=https://registry.npm.taobao.org</p>
+<p align="left">cnpm install</p>
+<p align="left">npm run build:mac</p>
 
 <p align="center">
   <a href="https://thief.im/" target="_blank">
